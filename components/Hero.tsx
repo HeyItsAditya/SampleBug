@@ -14,7 +14,7 @@ export default function Hero() {
             
             
             <h2 className=" lg:text-6xl text-4xl font-extrabold mb-4 !leading-tight">Protecting Your Mobile App,
-<span className="text-blue-400">From Start 2 Finish</span></h2>
+<span className="text-blue-400">From Start to Finish</span></h2>
             <p className="mt-6 text-2xl  leading-relaxed">Reflecting Vulnerability, Perfecting Security</p>
             <div className="mt-8 flex flex-wrap max-lg:justify-center gap-4">
               <button type='button'
